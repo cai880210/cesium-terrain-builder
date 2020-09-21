@@ -1,3 +1,4 @@
+将GDAL源代码中的gdaloverviewdataset.cpp文件复制到ctb项目下，重新生成后即可成功编译。
 # Cesium Terrain Builder
 
 This is a C++ library and associated command line tools designed to create
